@@ -59,11 +59,6 @@ You can adjust:
 - starter species lists
 - starting reward items
 
-## Notes
-
-- This mod is intentionally narrow in scope and only changes the starter experience.
-- It uses Cobblemon’s own starter systems as the source of truth.
-- The two-starter region display is adjusted client-side so those regions do not show duplicate side portraits.
 
 ## Bug Reports
 
