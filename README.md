@@ -27,13 +27,6 @@ Ancient Beginnings is a Cobblemon addon for Minecraft Forge 1.20.1 that replaces
 - **Kalos**: Tyrunt, Amaura
 - **Galar**: Dracozolt, Arctozolt, Dracovish, Arctovish
 
-## Supported Versions
-
-- **Minecraft**: 1.20.1
-- **Forge**: 47.4.20
-- **Cobblemon Forge**: 1.5.2
-
-This addon is built against Cobblemon Forge 1.5.2 and should be treated as version-specific.
 
 ## Required Dependency
 
